@@ -23,3 +23,16 @@ At the same time, he is a sotware engineer at Ericsson Hungary Ltd where he work
 * [Friendship in Service of Testing - CppNow, Aspen, USA - 2016](https://youtu.be/U9Up_OfiW24)
 * [Friendship in Service of Testing - Hungarian C++ Meetup, Budapest, Hungary - 2016](https://youtu.be/IF4LhMwVvSc)
 * [Journey to C++ Compile time Reflection - Hungarian C++ Meetup, Budapest, Hungary - 2014 Oct 29](https://www.youtube.com/watch?v=UqrcovFLqi4)
+
+### Open Source Contributions
+Any research done by Gábor is always backed up with open source working prototype implementations and measurments.
+For instance:
+* [Implementation of selective friends in LLVM/Clang](https://github.com/martong/clang/tree/selective_friend)
+* [Warnings and statistics about false C++ friend usage](https://github.com/martong/friend-stats)
+* [Realization of out-of-class friends in LLVM/Clang](https://github.com/martong/clang/tree/out-of-class_friend_attr)
+* [Library for accessing private members (exploits explicit template intantiations)](https://github.com/martong/access_private)
+* [Compiler instrumentation for testing](https://github.com/martong/finstrument_mock)
+* [A special smart pointer to exchange data between threads (rcu_ptr)](https://github.com/martong/rcu_ptr)
+
+For more information, please visit [Gábor's github page](https://github.com/martong).
+
