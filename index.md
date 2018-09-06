@@ -13,6 +13,7 @@ He is a PhD student at the Department of Programming Languages and Compilers at 
 At the same time, he is a sotware engineer at Ericsson Hungary Ltd where he works on Cross Translation Unit (CTU) static analysis and the related ASTImporter of the LLVM/Clang compiler infrastructure.
 
 ### Publications
+* [Márton G, Porkoláb Z. Utilize Syntax Tree Transformations as a C/C++ Test Seam](ast-mock_sqamia_2018.pdf)
 * [Márton G, Porkoláb Z. Compile-Time Function Call Interception to Mock Functions in C/C++](compile-time-fci-to-mock_llvm_2018.pdf)
 * [Márton G, Porkoláb Z. Selective friends in C++. Software: Practice and Experience. 2018.](selective-friends_spe_2018.pdf)
 * [Márton G, Porkoláb Z. Unit Testing in C++ with Compiler Instrumentation and Friends. Acta Cybernetica. 2017 Jan 1;23(2):659-86.](unit-testing_cscs_2017.pdf)
