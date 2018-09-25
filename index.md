@@ -10,7 +10,7 @@ layout: default
 ---
 Gábor Márton a passionate software developer who is interested in all kind of new software technologies, especially about modern C++.
 He is a PhD student at the Department of Programming Languages and Compilers at the Faculty of Informatics, Eötvös Loránd University (ELTE), Budapest, Hungary.
-At the same time, he is a sotware engineer at Ericsson Hungary Ltd where he works on Cross Translation Unit (CTU) static analysis and the related ASTImporter of the LLVM/Clang compiler infrastructure.
+At the same time, he is a software engineer at Ericsson Hungary Ltd where he works on Cross Translation Unit (CTU) static analysis and the related ASTImporter of the LLVM/Clang compiler infrastructure.
 
 ### Publications
 * [Márton G, Porkoláb Z. Utilize Syntax Tree Transformations as a C/C++ Test Seam. 2018.](ast-mock_sqamia_2018.pdf)
