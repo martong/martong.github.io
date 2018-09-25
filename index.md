@@ -14,13 +14,13 @@ At the same time, he is a software engineer at Ericsson Hungary Ltd where he wor
 
 ### Publications
 * [Márton G, Porkoláb Z. *Utilize Syntax Tree Transformations as a C/C++ Test Seam.* SQAMIA Workshop, 2018.](ast-mock_sqamia_2018.pdf)
-* [Márton G, Szekeres I, Porkoláb Z. Towards a high-level C++ abstraction to utilize the read-copy-update pattern. Acta Electrotechnica et Informatica. 2018.](high-level-cpp-rcu_acta_electrotechnica_2018.pdf)
-* [Márton G, Porkoláb Z. Compile-Time Function Call Interception to Mock Functions in C/C++. LLVM Developers Meeting, UK, Bristol. 2018.](compile-time-fci-to-mock_llvm_2018.pdf)
-* [Márton G, Porkoláb Z. Compile-Time Function Call Interception to Mock Functions in C/C++. Studia Universitatis Babes-Bolyai Series Informatica. 2018.](compile-time-fci-to-mock_macs_2018.pdf)
-* [Márton G, Porkoláb Z. Selective friends in C++. Software: Practice and Experience. 2018.](selective-friends_spe_2018.pdf)
-* [Márton G, Porkoláb Z. Unit Testing in C++ with Compiler Instrumentation and Friends. Acta Cybernetica. 2017.](unit-testing_cscs_2017.pdf)
-* [Márton G, Szekeres I, Porkoláb Z. High-level C++ implementation of the read-copy-update pattern. In Informatics, 2017 IEEE 14th International Scientific Conference on 2017.](high-level-cpp-rcu_informatics_2017.pdf)
-* [Márton G, Porkoláb Z. C++ Compile-time Reflection and Mock Objects. Studia Universitatis Babes-Bolyai, Informatica. 2014.](compile-time-reflection_macs_2014.pdf)
+* [Márton G, Szekeres I, Porkoláb Z. *Towards a high-level C++ abstraction to utilize the read-copy-update pattern.* Acta Electrotechnica et Informatica. 2018.](high-level-cpp-rcu_acta_electrotechnica_2018.pdf)
+* [Márton G, Porkoláb Z. *Compile-Time Function Call Interception to Mock Functions in C/C++.* LLVM Developers Meeting, Student Research Competition, UK, Bristol. 2018.](compile-time-fci-to-mock_llvm_2018.pdf)
+* [Márton G, Porkoláb Z. *Compile-Time Function Call Interception to Mock Functions in C/C++.* Studia Universitatis Babes-Bolyai Series Informatica. 2018.](compile-time-fci-to-mock_macs_2018.pdf)
+* [Márton G, Porkoláb Z. *Selective friends in C++.* Software: Practice and Experience. 2018.](selective-friends_spe_2018.pdf)
+* [Márton G, Porkoláb Z. *Unit Testing in C++ with Compiler Instrumentation and Friends.* Acta Cybernetica. 2017.](unit-testing_cscs_2017.pdf)
+* [Márton G, Szekeres I, Porkoláb Z. *High-level C++ implementation of the read-copy-update pattern.* In Informatics, 2017 IEEE 14th International Scientific Conference on 2017.](high-level-cpp-rcu_informatics_2017.pdf)
+* [Márton G, Porkoláb Z. *C++ Compile-time Reflection and Mock Objects.* Studia Universitatis Babes-Bolyai, Informatica. 2014.](compile-time-reflection_macs_2014.pdf)
 
 ### Presentations
 * [Compile-time Function Call Interception to Mock Funcitons in C/C++ - EuroLLVM, Bristol, UK - 2018](https://www.youtube.com/watch?v=mv60fYkKNHc)
