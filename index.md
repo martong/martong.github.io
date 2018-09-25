@@ -13,7 +13,7 @@ He is a PhD student at the Department of Programming Languages and Compilers at 
 At the same time, he is a software engineer at Ericsson Hungary Ltd where he works on Cross Translation Unit (CTU) static analysis and the related ASTImporter of the LLVM/Clang compiler infrastructure.
 
 ### Publications
-* [Márton G, Porkoláb Z. Utilize Syntax Tree Transformations as a C/C++ Test Seam. SQAMIA Workshop, 2018.](ast-mock_sqamia_2018.pdf)
+* [Márton G, Porkoláb Z. *Utilize Syntax Tree Transformations as a C/C++ Test Seam.* SQAMIA Workshop, 2018.](ast-mock_sqamia_2018.pdf)
 * [Márton G, Szekeres I, Porkoláb Z. Towards a high-level C++ abstraction to utilize the read-copy-update pattern. Acta Electrotechnica et Informatica. 2018.](high-level-cpp-rcu_acta_electrotechnica_2018.pdf)
 * [Márton G, Porkoláb Z. Compile-Time Function Call Interception to Mock Functions in C/C++. LLVM Developers Meeting, UK, Bristol. 2018.](compile-time-fci-to-mock_llvm_2018.pdf)
 * [Márton G, Porkoláb Z. Compile-Time Function Call Interception to Mock Functions in C/C++. Studia Universitatis Babes-Bolyai Series Informatica. 2018.](compile-time-fci-to-mock_macs_2018.pdf)
