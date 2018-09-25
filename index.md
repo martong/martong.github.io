@@ -19,7 +19,7 @@ At the same time, he is a software engineer at Ericsson Hungary Ltd where he wor
 * [Márton G, Porkoláb Z. Selective friends in C++. Software: Practice and Experience. 2018.](selective-friends_spe_2018.pdf)
 * [Márton G, Porkoláb Z. Unit Testing in C++ with Compiler Instrumentation and Friends. Acta Cybernetica. 2017 Jan 1;23(2):659-86.](unit-testing_cscs_2017.pdf)
 * [Márton G, Szekeres I, Porkoláb Z. High-level C++ implementation of the read-copy-update pattern. InInformatics, 2017 IEEE 14th International Scientific Conference on 2017 Nov 14 (pp. 243-248). IEEE.](high-level-cpp-rcu_informatics_2017.pdf)
-* [Márton G, Porkoláb Z. C++ COMPILE-TIME REFLECTION AND MOCK OBJECTS. Studia Universitatis Babes-Bolyai, Informatica. 2014 Jul 1;59(2).](compile-time-reflection_macs_2014.pdf)
+* [Márton G, Porkoláb Z. C++ Compile-time Reflection and Mock Objects. Studia Universitatis Babes-Bolyai, Informatica. 2014 Jul 1;59(2).](compile-time-reflection_macs_2014.pdf)
 
 ### Presentations
 * [Compile-time Function Call Interception to Mock Funcitons in C/C++ - EuroLLVM, Bristol, UK - 2018](https://www.youtube.com/watch?v=mv60fYkKNHc)
