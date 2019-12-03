@@ -13,6 +13,7 @@ He is a PhD student at the Department of Programming Languages and Compilers at 
 At the same time, he is a software engineer at Ericsson Hungary Ltd where he works on Cross Translation Unit (CTU) static analysis and the related ASTImporter of the LLVM/Clang compiler infrastructure.
 
 ### Publications
+* [Márton G *Tools and Language Elements for Testing, Encapsulation and Controlling Abstraction in Large Scale C++ Projects* PhD Thesis, 2019.](gabor-marton-phd-thesis.pdf)
 * [Márton G, Porkoláb Z. *Utilize Syntax Tree Transformations as a C/C++ Test Seam.* SQAMIA Workshop, 2018.](ast-mock_sqamia_2018.pdf)
 * [Márton G, Szekeres I, Porkoláb Z. *Towards a high-level C++ abstraction to utilize the read-copy-update pattern.* Acta Electrotechnica et Informatica. 2018.](high-level-cpp-rcu_acta_electrotechnica_2018.pdf)
 * [Márton G, Porkoláb Z. *Compile-Time Function Call Interception to Mock Functions in C/C++.* LLVM Developers Meeting, Student Research Competition, UK, Bristol. 2018.](compile-time-fci-to-mock_llvm_2018.pdf)
@@ -23,6 +24,7 @@ At the same time, he is a software engineer at Ericsson Hungary Ltd where he wor
 * [Márton G, Porkoláb Z. *C++ Compile-time Reflection and Mock Objects.* Studia Universitatis Babes-Bolyai, Informatica. 2014.](compile-time-reflection_macs_2014.pdf)
 
 ### Presentations
+* [ASTImporter: Merging Clang ASTs - 2019 LLVM Developers’ Meeting, San Jose, CA, USA - 2019](https://www.youtube.com/watch?v=M9hSCNC4w2U)
 * [Compile-time Function Call Interception to Mock Funcitons in C/C++ - EuroLLVM, Bristol, UK - 2018](https://www.youtube.com/watch?v=mv60fYkKNHc)
 * [Friendship in Service of Testing - CppNow, Aspen, USA - 2016](https://youtu.be/U9Up_OfiW24)
 * [Friendship in Service of Testing - Hungarian C++ Meetup, Budapest, Hungary - 2016](https://youtu.be/IF4LhMwVvSc)
