@@ -8,9 +8,8 @@
 layout: default
 
 ---
-Gábor Márton is a passionate software developer who is interested in all kind of new software technologies, especially about modern C++.
+Gábor Márton is a passionate software developer who is interested in compilers, optimizations and strongly typed languages like C++.
 He received his PhD at the Department of Programming Languages and Compilers at the Faculty of Informatics, Eötvös Loránd University (ELTE), Budapest, Hungary.
-He works as a software engineer at Ericsson Hungary Ltd where he works on Cross Translation Unit (CTU) static analysis and the related ASTImporter of the LLVM/Clang compiler infrastructure.
 
 ### Publications
 * [Márton G *Tools and Language Elements for Testing, Encapsulation and Controlling Abstraction in Large Scale C++ Projects* PhD Thesis, 2019.](gabor-marton-phd-thesis.pdf)
